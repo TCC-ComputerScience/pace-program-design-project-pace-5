@@ -1,4 +1,4 @@
-//Christopher Backus
+//Pace Group 5
 //CSC201
 // 4/25/2021
 // Board game of battleship
